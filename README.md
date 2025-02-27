@@ -1,4 +1,4 @@
-## Hi, I'm Luis Ocampo 👋
+## Hi, I'm Luis Carlos Ocampo 👋
 ## Welcome to my Profile 👨🏻‍💻
 <!--
 **LuisOcampo544/LuisOcampo544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
